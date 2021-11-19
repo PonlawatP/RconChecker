@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RconChecker-master">
+    <output-path>$PROJECT_DIR$/../Plugins Release</output-path>
+    <root id="archive" name="RconChecker-master.jar">
+      <element id="module-output" name="RconChecker" />
+    </root>
+  </artifact>
+</component>

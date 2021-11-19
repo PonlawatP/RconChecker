@@ -1,0 +1,9 @@
+name: RconChecker
+version: 1.1
+main: pcus.rconchecker.RconChecker
+authors: [Ponlawat]
+description: check and keep that command if player is not online'
+api-version: 1.13
+commands:
+  rcon:
+    description: for Rcon sender only
